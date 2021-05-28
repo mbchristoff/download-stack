@@ -1,0 +1,7 @@
+bazarr/config/*
+jackett/config/*
+lidarr/config/*
+ombi/config/*
+qbittorrent/config/*
+radarr/config/*
+sonarr/config/*
